@@ -1,0 +1,33 @@
+.MainCard {
+  border-color: #0066FF !important;
+}
+
+.MainCard .card-header {
+  background: #0D1521;
+}
+
+.MainCard .card-body {
+  background: #131C2B;
+}
+
+.Main-btn {
+  border-color: #0066FF !important;
+  color: white !important;
+  background-color: transparent !important;
+  background-image: linear-gradient(transparent, #0066ffbd);
+}
+
+/* .rdt_Pagination .sc-lnsjTu select,
+.rdt_Pagination .sc-lnsjTu svg {
+  display: none;
+} */
+
+.rdt_Pagination .sc-lnsjTu select option {
+  background: #131C2B;
+}
+
+.Toastify .Toastify__toast-container div[data-in="true"] {
+  background: #131c2b;
+  border: 1px solid #0066ff;
+  border-radius: 0;
+}
